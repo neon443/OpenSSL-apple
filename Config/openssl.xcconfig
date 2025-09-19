@@ -9,8 +9,7 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
-OPENSSL_VERSION = 1.1.1m
-FRAMEWORK_VERSION = 1.1.1
+OPENSSL_VERSION = 1.1.1
 BUILD_VERSION = 220118.0
 
 DYLIB_COMPATIBILITY_VERSION = 1.1
